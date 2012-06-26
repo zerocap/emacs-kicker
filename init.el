@@ -8,6 +8,7 @@
 ;; Licence: WTFPL, grab your copy here: http://sam.zoy.org/wtfpl/
 ;;
 ;; This file is NOT part of GNU Emacs.
+;; Forked by Yan Xie
 
 (require 'cl)				; common lisp goodies, loop
 
